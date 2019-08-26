@@ -17,6 +17,8 @@ class User extends Illuminate\Database\Eloquent\Model{
 //echo $users;
 
 
+
+
 //вывод данных
 //$users= User::all();
 //foreach ($users as $user){
