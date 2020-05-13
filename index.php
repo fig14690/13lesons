@@ -2,6 +2,8 @@
 require_once 'vendor\autoload.php';
 require_once 'db.config.php';
 
+// dytctys bpvtytybz c GitHub
+
 class User extends Illuminate\Database\Eloquent\Model{
     //Выбрать другу таблицу    
     //protected $table='user';
